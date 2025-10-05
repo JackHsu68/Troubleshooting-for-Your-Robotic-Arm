@@ -1,6 +1,6 @@
 # Troubleshooting-for-Your-Robotic-Arm
 
-For safety purpose, we strong encourage you to read the following sections when you encounter error messages or have problem using the robotic arm.
+For safety purpose, we strongly encourage you to read the following sections when you encounter error messages or have problem using the robotic arm.
 
 ##[How to Adjust the Pillar Height](Adjust-Pillar-Height.md)
 
