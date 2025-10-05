@@ -1,5 +1,7 @@
 # Error Messages
 
+The following describes situations that cause error messages to appear and the proper reset procedures to resolve the error messages.
+
 ## “Working pallet disappear cause pause” 
 Situation: The pallet sensor did not detect the working pallet normally. 
 Reset Procedure: Make sure the sensor detect the working pallet normally, then press “Start” to continue.
