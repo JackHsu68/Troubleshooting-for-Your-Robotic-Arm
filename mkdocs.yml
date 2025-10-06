@@ -3,6 +3,7 @@ nav:
   - Home: README.md
   - Adjusting Pillar Height: Adjust-Pillar-Height.md
   - Recover from Emergency Stop: Emergency-Stop-Recover.md
-  - Recover from Safeguard Stop: Safeguard-Stop-Recover.md
+  - Resume from Safeguard Stop: Safeguard-Stop-Resume.md
+  - Handling Error Messages: Error-Messages.md
 theme:
   name: readthedocs
