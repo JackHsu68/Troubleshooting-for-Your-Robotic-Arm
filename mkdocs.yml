@@ -1,0 +1,8 @@
+site_name: Robotic Arm Troubleshooting Guide
+nav:
+  - Home: README.md
+  - Adjusting Pillar Height: Adjust-Pillar-Height.md
+  - Recover from Emergency Stop: Emergency-Stop-Recover.md
+  - Recover from Safeguard Stop: Safeguard-Stop-Recover.md
+theme:
+  name: readthedocs
